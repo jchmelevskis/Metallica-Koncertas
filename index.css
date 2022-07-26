@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  .header-title {
+    margin: 0;
+    padding-left: 500px;
+    font-weight: bold;
+  }
+  
+.main-title {
+    margin: 0;
+    padding-left: 100px;
+    font-weight: normal;
+  }
+  
+  .main-subtitle {
+    margin: 0;
+    padding-left: 1000px;
+    font-weight: normal;
+  }
+
+  }
+  
+  .Video-text { 
+    margin: 0;
+  padding-left: 104500px;
+  font-weight: normal;
+}
+
+body {
+   
+    font-family: "Times New Roman", Times, serif;
+}
